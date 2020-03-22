@@ -1,0 +1,9 @@
+Package: installVoice
+Version: 1.0-1
+Section: base
+Priority: optional
+Architecture: i386
+Maintainer: ELEGBA Veance venance@right-com.com
+Description: Installation automatique de docker
+ installation de docker engine
+
